@@ -8,3 +8,8 @@ var a =10
     console.log("Accessing b iside block",b )
 }
 console.log("Accessing b outide the block",b)
+
+// git adding 
+// git add varDeclartion
+// git commit -m 'adding to git'
+// gti push origin main
