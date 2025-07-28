@@ -12,4 +12,5 @@ console.log("Accessing b outide the block", b);
 // git adding
 // git add varDeclartion
 // git commit -m 'adding to git'
-// gti push origin main
+// git push origin main
+// git add. for all
